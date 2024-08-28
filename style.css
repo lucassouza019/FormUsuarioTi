@@ -1,0 +1,25 @@
+label {
+   
+    margin-bottom: 5px; /* Espaçamento entre o label e o input */
+    font-weight: bold; /* Opcional: Deixa o texto em negrito */
+}
+
+ 
+    
+ 
+.input-maior {
+    width: 500px;
+    border-width: 30px;
+    border-color: black;
+  
+}
+
+.input-medio {
+    width: 400px;
+    border-width: 30px;
+    border-color: black;
+    
+}
+
+
+ 
